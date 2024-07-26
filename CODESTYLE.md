@@ -400,7 +400,7 @@ To create reusable widgets, it is encouraged to extract it as a class widget  in
 ### 9.2 If **to separate dart file**, which specific directory it will be placed? Below are the checklist to decide :
 
 ☐ Does the widget used across features?\
- 📍 put it into core/widgets. 
+ 📍 put it into presentation/widgets. 
 
 ☐ Does the widget only used for a single feature?\
 📍 put it into {features_name}/widgets.
