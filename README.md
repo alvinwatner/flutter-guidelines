@@ -21,7 +21,7 @@ All are equally valuable to the team.
 
 ## Code Style Guidelines 
 
-Before writing codes, check out our [styling guidelines](https://github.com/Jobseeker-company/mobile-internal-docs/blob/master/STYLE.md) first.
+Before writing codes, check out our [styling guidelines](https://github.com/alvinwatner/flutter-guidelines/blob/main/CODESTYLE.md) first.
 
 
 ## Start Contributing! (Pull Requests) :
